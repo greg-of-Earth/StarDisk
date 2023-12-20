@@ -1,0 +1,8 @@
+,Count
+Total Sources,17464.0
+mipstype = 0,15978.0
+"Defined Teff,logg,Dist",9239.0
+"Defined Flux i1,i2,i4,m1",9199.0
+2350<Teff<3850,1414.0
+logg > 3.0,873.0
+i1-m1 > 1.0,806.0
